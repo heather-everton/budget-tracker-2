@@ -3,9 +3,11 @@
 ## Description
 This is a budget tracker for an individual to track daily transactions and maintain access both online and offline
 
-<img src="./assets/ScreenShotEcommerce1.jpg" alt="budget tracker" width="100%" height="100%">
+<img src="./assets/ScreenShotBudgetTracker.jpg" alt="budget tracker" width="100%" height="100%">
 
-<a href="https://github.com/heather-everton/budget-tracker-"><strong>Explore the docs »</strong></a>
+<a href="https://github.com/heather-everton/budget-tracker-2"><strong>Explore the docs »</strong></a>
+<br />
+<a href="https://budgeting-he.herokuapp.com/"><strong>Access the hosted application here</strong></a>
 <br />
 
 ## Table of Contents
